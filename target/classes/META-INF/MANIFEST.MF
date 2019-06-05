@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: book-shopping-portal
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Satish
+Implementation-Vendor-Id: com.abc.portal.book
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/book-shopping-portal
+Created-By: Maven Integration for Eclipse
+

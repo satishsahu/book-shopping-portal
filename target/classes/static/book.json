@@ -1,0 +1,62 @@
+[
+  {
+    "category": "school",
+    "imported": false,
+    "name": "cbse chemistry",
+    "price": 166.85
+  },
+  {
+    "category": "school",
+    "imported": false,
+    "name": "cbse physics",
+    "price": 328.65
+  },
+  {
+    "category": "school",
+    "imported": false,
+    "name": "cbse social science",
+    "price": 245.15
+  },
+  {
+    "category": "school",
+    "imported": false,
+    "name": "cbse english",
+    "price": 231.75
+  },
+  {
+    "category": "management",
+    "imported": false,
+    "name": "fundamental of management",
+    "price": 645.85
+  },
+  {
+    "category": "management",
+    "imported": true,
+    "name": "habit of winning",
+    "price": 1166.85
+  },
+  {
+    "category": "management",
+    "imported": false,
+    "name": "the leadership",
+    "price": 799.00
+  },
+  {
+    "category": "lifestyle",
+    "imported": true,
+    "name": "theory of constraints",
+    "price": 2165.00
+  },
+  {
+    "category": "lifestyle",
+    "imported": false,
+    "name": "professional communication",
+    "price": 616.00
+  },
+  {
+    "category": "lifestyle",
+    "imported": false,
+    "name": "industrial sociology",
+    "price": 999.45
+  }
+]

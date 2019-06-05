@@ -1,0 +1,14 @@
+[
+  {
+    "tax": 7,
+    "type": "sales"
+  },
+  {
+    "tax": 4,
+    "type": "vat"
+  },
+  {
+    "tax": 5,
+    "type": "imported"
+  }
+]

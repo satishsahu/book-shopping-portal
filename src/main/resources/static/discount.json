@@ -1,0 +1,22 @@
+[
+  {
+    "amount": 500,
+    "category": "nonmanagement",
+    "discount": 5
+  },
+  {
+    "amount": 1000,
+    "category": "nonmanagement",
+    "discount": 10
+  },
+  {
+    "amount": 1500,
+    "category": "nonmanagement",
+    "discount": 15
+  },
+  {
+    "amount": 0,
+    "category": "management",
+    "discount": 0
+  }
+]
